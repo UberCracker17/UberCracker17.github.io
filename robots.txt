@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: UberCracker17.github.io/sitemap.xml
